@@ -1,6 +1,7 @@
 struct RetInfo {
     1: i32 errCode,
     2: string errStr
+	3：test
 }
 
 //心跳相关信息
